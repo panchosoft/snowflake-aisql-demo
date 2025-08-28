@@ -1,0 +1,2 @@
+# Welcome to the Snowflake Cortex AISQL Demonstration Notebook 👋
+This notebook provides a practical overview of Snowflake's AI capabilities for extracting insights from unstructured data sources such as documents, images, and more. Using [Snowflake Cortex AISQL](https://docs.snowflake.com/en/user-guide/snowflake-cortex/aisql#label-cortex-llm-ai-function) functions, we will demonstrate how to seamlessly integrate AI-powered analysis within your data workflows.
